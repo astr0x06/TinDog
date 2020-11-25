@@ -7,3 +7,5 @@ This is a Website called tindog and it was made during the bootstrap section of 
 - HTML
 - CSS
 - Bootstrap
+
+## You can view the website [here](https://astr0x06.github.io/TinDog/)
